@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/-docker-grey?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Docker">
     <img src="https://img.shields.io/badge/-Postgresql-grey?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&amp;labelColor=8E2DE2" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/-yarn-grey?style=for-the-badge&amp;logo=yarn&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Yarn">
 </p>
 
 <!--Formas de contato-->
