@@ -52,5 +52,11 @@
 </p>
 
 <!--Formas de contato-->
-<h2></h2>
+<h2>Dê uma olhada nas minhas outras redes</h2>
+<p>
+  <a target="_blank" height="25" width="200" href="https://www.instagram.com/vinimgm/"><img src="https://img.shields.io/badge/instagram%20@vinimgm-ff0a54?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a target="_blank" height="25" width="200" href="https://www.facebook.com/vinicius.miranda.77964/"><img src="https://img.shields.io/badge/facebook%20@Vinicius_Miranda-007991?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
+  <a target="_blank" height="25" width="200" href="mailto:vinicius.mirandagm@gmail.com"><img src="https://img.shields.io/badge/gmail%20@Vinicius_Miranda-DD0426?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" height="25" width="200" href="https://www.linkedin.com/in/vinicius-miranda-326824211/"><img src="https://img.shields.io/badge/linkedin%20@Vinicius_Miranda-232ED1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
