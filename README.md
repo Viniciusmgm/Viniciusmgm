@@ -47,6 +47,8 @@
     <img src="https://img.shields.io/badge/-Postgresql-grey?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&amp;labelColor=8E2DE2" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Bootstrap">
     <img src="https://img.shields.io/badge/-yarn-grey?style=for-the-badge&amp;logo=yarn&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Yarn">
+    <img src="https://img.shields.io/badge/-typescript-grey?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Typescript">
+    <img src="https://img.shields.io/badge/-spring-grey?style=for-the-badge&amp;logo=spring&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Spring">
 </p>
 
 <!--Formas de contato-->
