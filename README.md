@@ -24,19 +24,29 @@
    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmgm&amp;theme=radical&amp;title_color=8E2DE2&amp;text_color=fff" alt="Top Langs">
 </p>
 <br>
+
 <!--Linguagens e Ferramentas-->
 <h2>Linguagens e Ferramentas</h2>
 <h3>Conhecimentos mais consolidados:</h3>
 <p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
+    <img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=8E2DE2" alt="HTML5">
+    <img src="https://img.shields.io/badge/css%203-grey?style=for-the-badge&amp;logo=css3&amp;logoColor=white&amp;labelColor=8E2DE2" alt="CSS3">
+    <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=8E2DE2" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=8E2DE2" alt="git">
+    <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=8E2DE2" alt="github">
+    <img src="https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&amp;logo=Markdown&amp;logoColor=white&amp;labelColor=8E2DE2" alt="MarkDown">
+    <img src="https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&amp;logo=Kotlin&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Kotlin">
 </p>
-
 <h3>Quero aprender:</h3>
 <p>
-    
+    <img src="https://img.shields.io/badge/-Java-grey?style=for-the-badge&amp;logo=Java&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Java">
+    <img src="https://img.shields.io/badge/-angular-grey?style=for-the-badge&amp;logo=angular&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Angular">
+    <img src="https://img.shields.io/badge/-react-grey?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=8E2DE2" alt="React">
+    <img src="https://img.shields.io/badge/-python-grey?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Python">
+    <img src="https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=8E2DE2" alt="MondoDB">
+    <img src="https://img.shields.io/badge/-docker-grey?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Docker">
+    <img src="https://img.shields.io/badge/-Postgresql-grey?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&amp;labelColor=8E2DE2" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Bootstrap">
 </p>
 
 <!--Formas de contato-->
