@@ -6,18 +6,18 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <!--Sessão de Apresentação-->
-<h2>Um pouquinho sobre mim</h2>
+<h2>Um pouquinho sobre mim 😄</h2>
 <p>Oiiii novamente, tudo bem? espero que sim. <br> 
   Bom, eu sou o Vinicius, um universitário super curioso que vive a base de café &#9749;, e que ama❤️ programação💻 e design🎨.</p>
 <ul>
-    <li>Atualmente, cursando o Ciência e Tecnologia pela Ufabc, mas pretendo fazer também Ciência da Computação e Neurociência
+    <li>Atualmente, cursando o Ciência e Tecnologia pela Ufabc, mas pretendo fazer também Ciência da Computação💻 e Neurociência🧠
     <li>Fiz meu Ensino Médio integrado a um Ensino Técnico em Mecatrônica pela Etec Martin Luther King, e lá tive diversas experiência, tanto com trabalhos avançados 
-      utilizando Mecânica, Eletrônica e Programação, quanto com pessoas dos mais diferentes tipos, que me fizeram expandir muito da minha visão de mundo.
-    <li>No momento, estou fazendo alguns projetos voltados para Web, e pretendo começar alguns voltados a programação de jogos.
+      utilizando Mecânica, Eletrônica e Programação, quanto com pessoas dos mais diferentes tipos, que me fizeram expandir muito da minha visão de mundo🌎
+    <li>No momento, estou fazendo alguns projetos voltados para Web🗗, e pretendo começar alguns voltados a programação de jogos🎮
 </ul>
 
 <!--Estatísticas-->
-<h2>Algumas estatísticas</h2>
+<h2>Algumas estatísticas 📈</h2>
 <p align="center" width="60%" vertical-align="top">  
    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Viniciusmgm&amp;show_icons=true&amp;theme=radical&amp;title_color=8E2DE2&amp;text_color=fff&amp;icon_color=8E2DE2" alt="Vinicius Miranda&#39;s GitHub stats">
     &emsp;
@@ -25,7 +25,7 @@
 </p>
 
 <!--Linguagens e Ferramentas-->
-<h2>Linguagens e Ferramentas</h2>
+<h2>Linguagens e Ferramentas 🛠️</h2>
 <h3>Conhecimentos mais consolidados:</h3>
 <p align="left"> 
     <img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=8E2DE2" alt="HTML5">
@@ -52,7 +52,7 @@
 </p>
 
 <!--Formas de contato-->
-<h2>Dê uma olhada nas minhas outras redes</h2>
+<h2>Dê uma olhada nas minhas outras redes 😄</h2>
 <p>
   <a target="_blank" height="25" width="200" href="https://www.instagram.com/vinimgm/"><img src="https://img.shields.io/badge/instagram%20@vinimgm-ff0a54?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a target="_blank" height="25" width="200" href="https://www.facebook.com/vinicius.miranda.77964/"><img src="https://img.shields.io/badge/facebook%20@Vinicius_Miranda-007991?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
