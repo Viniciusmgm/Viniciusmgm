@@ -23,7 +23,6 @@
     &emsp;
    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmgm&amp;theme=radical&amp;title_color=8E2DE2&amp;text_color=fff" alt="Top Langs">
 </p>
-<br>
 
 <!--Linguagens e Ferramentas-->
 <h2>Linguagens e Ferramentas</h2>
