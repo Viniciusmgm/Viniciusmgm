@@ -49,6 +49,8 @@
     <img src="https://img.shields.io/badge/-yarn-grey?style=for-the-badge&amp;logo=yarn&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Yarn">
     <img src="https://img.shields.io/badge/-typescript-grey?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Typescript">
     <img src="https://img.shields.io/badge/-spring-grey?style=for-the-badge&amp;logo=spring&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Spring">
+    <img src="https://img.shields.io/badge/-jquery-grey?style=for-the-badge&amp;logo=jquery&amp;logoColor=white&amp;labelColor=8E2DE2" alt="JQuery">
+    <img src="https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=8E2DE2" alt="MySQL">
 </p>
 
 <!--Formas de contato-->
