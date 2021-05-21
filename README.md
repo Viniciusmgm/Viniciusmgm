@@ -1,7 +1,7 @@
 <!--Sessão de Abertura-->
 <h1 align="center">
   Hi, I'm Vinicius <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> <br> 
-  Welcome to my GitHub <img width="40" height="40" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub">
+  Welcome to my GitHub <img align="top" width="40" height="40" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub">
 </h1>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
