@@ -19,9 +19,9 @@
 <!--Estatísticas-->
 <h2>Algumas estatísticas 📈</h2>
 <p align="center" width="60%" vertical-align="top">  
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Viniciusmgm&amp;show_icons=true&amp;theme=radical&amp;title_color=8E2DE2&amp;text_color=fff&amp;icon_color=8E2DE2" alt="Vinicius Miranda&#39;s GitHub stats">
+   <img height="250" src="https://github-readme-stats.vercel.app/api?username=Viniciusmgm&amp;show_icons=true&amp;theme=radical&amp;title_color=8E2DE2&amp;text_color=fff&amp;icon_color=8E2DE2" alt="Vinicius Miranda&#39;s GitHub stats">
     &emsp;
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmgm&amp;theme=radical&amp;title_color=8E2DE2&amp;text_color=fff" alt="Top Langs">
+   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmgm&amp;theme=radical&amp;title_color=8E2DE2&amp;text_color=fff" alt="Top Langs">
 </p>
 
 <!--Linguagens e Ferramentas-->
