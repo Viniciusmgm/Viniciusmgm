@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=8E2DE2" alt="JavaScript">
     <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=8E2DE2" alt="git">
     <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=8E2DE2" alt="github">
-    <img src="https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&amp;logo=Markdown&amp;logoColor=white&amp;labelColor=8E2DE2" alt="MarkDown">
     <img src="https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&amp;logo=Kotlin&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Kotlin">
     <img src="https://img.shields.io/badge/-python-grey?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Python">
 </p>
@@ -51,6 +50,7 @@
     <img src="https://img.shields.io/badge/-spring-grey?style=for-the-badge&amp;logo=spring&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Spring">
     <img src="https://img.shields.io/badge/-jquery-grey?style=for-the-badge&amp;logo=jquery&amp;logoColor=white&amp;labelColor=8E2DE2" alt="JQuery">
     <img src="https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=8E2DE2" alt="MySQL">
+    <img src="https://img.shields.io/badge/-oracle-grey?style=for-the-badge&amp;logo=oracle&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Oracle">
 </p>
 
 <!--Formas de contato-->
