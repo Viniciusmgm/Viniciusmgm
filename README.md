@@ -35,10 +35,10 @@
     <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=8E2DE2" alt="github">
     <img src="https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&amp;logo=Kotlin&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Kotlin">
     <img src="https://img.shields.io/badge/-python-grey?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Python">
+    <img src="https://img.shields.io/badge/-Java-grey?style=for-the-badge&amp;logo=Java&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Java">
 </p>
 <h3>Quero aprender:</h3>
 <p>
-    <img src="https://img.shields.io/badge/-Java-grey?style=for-the-badge&amp;logo=Java&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Java">
     <img src="https://img.shields.io/badge/-angular-grey?style=for-the-badge&amp;logo=angular&amp;logoColor=white&amp;labelColor=8E2DE2" alt="Angular">
     <img src="https://img.shields.io/badge/-react-grey?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=8E2DE2" alt="React">
     <img src="https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=8E2DE2" alt="MondoDB">
